@@ -1,0 +1,14 @@
+pairs:
+  ac: alex choi; achoi
+  bb: Brian Butz; bbutz
+  id: Isil Demir; idemir
+  ja: Jaclyn Anderson; janderson
+  md: Matt Dickenson; mdickenson
+  mtm: Molly Trombley-McCann; molly
+  wr: Will Read; will
+  np: Naomi Plasterer; nplasterer
+email:
+  prefix: feedback-team+pair
+  domain: pivotal.io
+
+global: true
